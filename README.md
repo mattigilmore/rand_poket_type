@@ -1,1 +1,1 @@
-# rand_poket_ype
+#this program randomly choosing a pokemon type
